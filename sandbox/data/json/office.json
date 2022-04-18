@@ -1,0 +1,83 @@
+{
+    "officeCode": {
+        "0": 1,
+        "1": 2,
+        "2": 3,
+        "3": 4,
+        "4": 5,
+        "5": 6,
+        "6": 7
+    },
+    "city": {
+        "0": "San Francisco",
+        "1": "Boston",
+        "2": "NYC",
+        "3": "Paris",
+        "4": "Tokyo",
+        "5": "Sydney",
+        "6": "London"
+    },
+    "phone": {
+        "0": "+1 650 219 4782",
+        "1": "+1 215 837 0825",
+        "2": "+1 212 555 3000",
+        "3": "+33 14 723 4404",
+        "4": "+81 33 224 5000",
+        "5": "+61 2 9264 2451",
+        "6": "+44 20 7877 2041"
+    },
+    "addressLine1": {
+        "0": "100 Market Street",
+        "1": "1550 Court Place",
+        "2": "523 East 53rd Street",
+        "3": "43 Rue Jouffroy D\\'abbans",
+        "4": "4-1 Kioicho",
+        "5": "5-11 Wentworth Avenue",
+        "6": "25 Old Broad Street"
+    },
+    "addressLine2": {
+        "0": "Suite 300",
+        "1": "Suite 102",
+        "2": "apt. 5A",
+        "3": null,
+        "4": null,
+        "5": "Floor #2",
+        "6": "Level 7"
+    },
+    "state": {
+        "0": "CA",
+        "1": "MA",
+        "2": "NY",
+        "3": null,
+        "4": "Chiyoda-Ku",
+        "5": null,
+        "6": null
+    },
+    "country": {
+        "0": "USA",
+        "1": "USA",
+        "2": "USA",
+        "3": "France",
+        "4": "Japan",
+        "5": "Australia",
+        "6": "UK"
+    },
+    "postalCode": {
+        "0": "94080",
+        "1": "2107",
+        "2": "10022",
+        "3": "75017",
+        "4": "102-8578",
+        "5": "NSW 2010",
+        "6": "EC2N 1HN"
+    },
+    "territory": {
+        "0": null,
+        "1": null,
+        "2": null,
+        "3": "EMEA",
+        "4": "Japan",
+        "5": "APAC",
+        "6": "EMEA"
+    }
+}
